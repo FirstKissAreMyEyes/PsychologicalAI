@@ -1,1 +1,2 @@
 # PsychologicalAI
+功能
